@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hi, I'm Shahzad Habib 👋
+#  Shahzad Habib 
 
 **Full-Stack Web & AI Applications Developer**
 
